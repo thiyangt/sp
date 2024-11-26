@@ -1,0 +1,11 @@
+---
+title: "Stochastic Processes"
+---
+
+## Lecture 1: 19 November 2024
+
+[Slides](https://thiyangt.github.io/ES1/#/title-slide)
+
+## Lecture 2: 26 November 2024
+
+[Slides](https://stochasticprocesses.netlify.app/1_Sp/1_lecture2.pdf)

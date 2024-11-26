@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "sp"
+  title: "STA 331 2.0 Stochastic Processes"
   navbar:
     left:
       - href: index.qmd

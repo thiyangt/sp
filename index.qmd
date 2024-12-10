@@ -10,6 +10,10 @@ title: "Stochastic Processes"
 
 [Slides 2](https://stochasticprocesses.netlify.app/1_Sp/1_lecture2.pdf)
 
-## Lecture 3: 12 December 2024
+## Lecture 3: 03 December 2024
 
 [Slides 3](https://stochasticprocesses.netlify.app/2_stochastic_processes_2021/2_stochastic_processes.pdf)
+
+## Lecture 4: 10 December 2024
+
+[Slides 4](https://stochasticprocesses.netlify.app/3_stochastic_processes_2021/3_stochastic_processes.pdf)

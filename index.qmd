@@ -20,6 +20,10 @@ title: "Stochastic Processes"
 
 [Slides 4](https://stochasticprocesses.netlify.app/3_stochastic_processes_2021/3_stochastic_processes.pdf)
 
-# Whiteboard 
+## Lecture 5: 17 December 2024
+
+[Slides 5](https://stochasticprocesses.netlify.app/4limitingprob/4_stochastic_processes.pdf)
+
+# Whiteboard
 
 [Whiteboard](https://learn.zoom.us/j/98616231878?pwd=ExfZVfcmVyYndq0xpswOM8MQaVL4Sg.1)

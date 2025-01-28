@@ -24,9 +24,17 @@ title: "Stochastic Processes"
 
 [Slides 5](https://stochasticprocesses.netlify.app/4limitingprob/4_stochastic_processes.pdf)
 
-## Lecture 6: 7 January 2024
+## Lecture 6: 7 January 2025
 
 [Slides 6](https://stochasticprocesses.netlify.app/5_stochastic_processes_2021/5_stochastic_processes_2021.pdf)
+
+## Lecture 7: 28 January 2025 (1-3pm)
+
+Mid- semester Examination
+
+## Lecture 8: 28 January 2025 (3-5pm)
+
+[Slides 7](https://stochasticprocesses.netlify.app/7_stochastic_processes.pdf)
 
 # Whiteboard
 

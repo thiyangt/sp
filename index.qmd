@@ -34,7 +34,11 @@ Mid- semester Examination
 
 ## Lecture 8: 28 January 2025 (3-5pm)
 
-[Slides 7](https://stochasticprocesses.netlify.app/7_stochastic_processes.pdf)
+[Slide 7](https://stochasticprocesses.netlify.app/6_stochastic_processes_2021.pdf)
+
+## Lecture 9: 31 January 2025 (8-9.45am)
+
+[Slides 8](https://stochasticprocesses.netlify.app/7_stochastic_processes.pdf)
 
 # Whiteboard
 

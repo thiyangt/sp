@@ -40,6 +40,10 @@ Mid- semester Examination
 
 [Slides 8](https://stochasticprocesses.netlify.app/7_stochastic_processes.pdf)
 
-# Whiteboard
+## Lecture 10: 7 February 2025 (8-9.45am)
 
-[Whiteboard](https://learn.zoom.us/j/94362964735?pwd=nmdxO9lCfFMKZktTkWSA4scUeZPzvm.1)
+[Slides 9](https://stochasticprocesses.netlify.app/facts.pdf)
+
+## Lecture 11: 11 February 2025 (8-9.45am)
+
+[slides 10](https://stochasticprocesses.netlify.app/14_stochastic_processes.pdf)

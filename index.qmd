@@ -44,6 +44,10 @@ Mid- semester Examination
 
 [Slides 9](https://stochasticprocesses.netlify.app/facts.pdf)
 
-## Lecture 11: 11 February 2025 (8-9.45am)
+## Lecture 11: 11 February 2025 (1-3pm)
+
+
+[Note](https://thiyangt.github.io/tst.stochasticprocesses/chapter5.html)
 
 [slides 10](https://stochasticprocesses.netlify.app/14_stochastic_processes.pdf)
+
